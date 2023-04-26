@@ -1,5 +1,5 @@
 # Text-Formatter
 Text Formatter Program in Java
 
-Jonathan 
+Jonathan \n
 Kiana
