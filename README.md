@@ -2,4 +2,4 @@
 Text Formatter Program in Java
 
 Jonathan\
-Kiana\
+Kiana
